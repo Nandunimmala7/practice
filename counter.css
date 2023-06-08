@@ -1,0 +1,11 @@
+.timer-container{
+    background-color: greenyellow;
+    border: 5px solid black;
+    margin-top: 19%;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 120px;
+    margin:0;
+}

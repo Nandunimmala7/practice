@@ -1,0 +1,13 @@
+body
+{
+  background-color: red;
+
+}
+.bg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+    cursor: pointer;
+}
